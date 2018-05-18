@@ -1,0 +1,12 @@
+{
+  "connectionDB": {
+    "urlBase" : "@ds227110.mlab.com:27110/",
+    "nameBase": "spacemen",
+    "port": 8080,
+    "login": "admin",
+    "password": "123321"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
